@@ -3,8 +3,8 @@
   line-height: 1.5;
   font-weight: 400;
 
-  color: #f80000; /* White */
-  background-color: #00c2fd67; /* Cherry Red */
+  color: #f80000; 
+  background-color: #00c2fd67; 
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -18,7 +18,7 @@
 
 .card {
   padding: 2em;
-  background: rgba(243, 112, 112, 0.1); /* Light White Background */
+  background: rgba(243, 112, 112, 0.1); 
   border-radius: 10px;
   box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
   will-change: transform;
